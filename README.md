@@ -1,15 +1,10 @@
 <hr>
 <h4 align="center">
 Oi! Eu sou Kamilly, seja bem-vindo(a) ao meu perfil! <br>
-sou uma estudante de programação com foco em desenvolvimento Front-end. E aqui compartilho com vocês meus projetinhos😊
+E aqui compartilho com vocês meus projetinhos😊
 <hr>
   
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.tenor.com/o45Agg_5qcAAAAAC/cute-cat.gif)
-
-<div>
-<img  height="180em"src="https://github-readme-stats.vercel.app/api?username=kamillyvitoria&show_icons=true&theme=dracula">
-<img  height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvitoria&hide_progress=true&theme=dracula">
-</div>
 
   <h4 align="center">
 Tecnologias que você encontrará por aqui
